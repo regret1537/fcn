@@ -13,6 +13,8 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533` FCN交流论坛 http://bbs.xfconnect.com
 
+* download FCN V3.1 安卓测试版 https://github.com/boywhp/fcn/releases/download/FCN_V3.1BETA/android.zip
+
 * download FCN V3.0 FULL 百度网盘 https://pan.baidu.com/s/1pLsonhh
 
 * download FCN V3.0 binary https://github.com/boywhp/fcn/releases/download/V3.0/FCN_V3.0.zip

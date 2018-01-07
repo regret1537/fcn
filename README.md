@@ -13,13 +13,13 @@ fcn = `fcn_server` + `fcn_client`
 
 * FCN使用交流QQ群: `592512533` FCN交流论坛 http://bbs.xfconnect.com
 
-* download FCN V3.1 安卓测试版 https://github.com/boywhp/fcn/releases/download/FCN_V3.1BETA/android.zip
+* download FCN V3.1 FULL 百度网盘 https://pan.baidu.com/s/1dFnR5Hv
 
-* download FCN V3.0 FULL 百度网盘 https://pan.baidu.com/s/1pLsonhh
+* download FCN V3.1 安卓版 https://github.com/boywhp/fcn/releases/download/V3.1/android.zip
 
-* download FCN V3.0 binary https://github.com/boywhp/fcn/releases/download/V3.0/FCN_V3.0.zip
+* download FCN V3.1 binary https://github.com/boywhp/fcn/releases/download/V3.1/FCN_V3.1.zip
 
-* download FCN V3.0 嵌入式版本  https://github.com/boywhp/fcn/releases/download/V3.0/linux-embeded.zip
+* download FCN V3.1 嵌入式版本  https://github.com/boywhp/fcn/releases/download/V3.1/embeded-linux.zip
 
 * FCN支持操作系统平台
 
@@ -84,7 +84,8 @@ http://weibo.com/ttarticle/p/show?id=2309404124768579250283
 | [tport]| 自定义tcp通信端口, 默认8000，自定义[1000-2000], 建议不填
 | [pport]| 自定义p2p通信端口, 除非服务端可做端口映射，否则不要填
 | [fcn_svr]| 设置公网FCN服务器地址,默认s1.xfconnect.com, 建议不填
-| [notun]| 0/1, 0：自动 1：强制应用层NAT，建议不填
+| [notun]| 0/1, 0:自动 1:强制应用层NAT，建议不填
+| [route]| 设置路由网段推送列表, 视情填写
 
 tun驱动模式NAT,需要ROOT权限运行；应用层NAT模式，非ROOT权限无法收发ping包
 ```shell

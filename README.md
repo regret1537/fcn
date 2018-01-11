@@ -38,11 +38,9 @@ Linux arm/armbian 树莓派3、Orange Pi实测通过
 
 ![image](https://github.com/boywhp/fcn/raw/master/doc/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
-* fcn安卓版实际操作视频
+* fcn安卓版实际操作视频 https://weibo.com/tv/v/FCcaGmpbz
 
-https://weibo.com/tv/v/FCcaGmpbz
-
-* fcn接入 斐讯PSG1218/K2路由操作演示
+* fcn接入斐讯PSG1218/K2路由操作演示
 
 ![image](https://github.com/boywhp/fcn/blob/master/doc/fcn_k2_rt.gif)
 

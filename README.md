@@ -25,10 +25,9 @@ fcn = `fcn_server` + `fcn_client`
 
 |操作系统|文件名
 |-------|---
-| Windows XP以上操作系统 | windows/fcn_win.exe
-| Linux 64bit | linux/fcn_x64
-| Linux 32bit | linux/fcn_x86
-| Linux 路由器 | linux-embedded/fcn_`mips/mipsel/arm/armhf`_uclib
+| Windows操作系统 | windows/fcn_win.exe
+| Linux操作系统 | linux/fcn_x64/x86
+| Linux 路由器 | linux-embedded/lede|openwrt/fcn_`mips/mipsel/arm/armhf`
 | Linux arm | linux-embedded/`fcn-arm/armbian`
 
 Linux openwrt/lede WR703N、华硕N14U、斐讯K2/K2P Openwrt/Padavan实测通过，openwrt/lede需自行安装`libopenssl`包
@@ -38,6 +37,10 @@ Linux arm/armbian 树莓派3、Orange Pi实测通过
 * fcn接入原理示意图
 
 ![image](https://github.com/boywhp/fcn/raw/master/doc/FCN%E7%BD%91%E7%BB%9C%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
+
+* fcn安卓版实际操作视频
+
+https://weibo.com/tv/v/FCcaGmpbz
 
 * fcn接入 斐讯PSG1218/K2路由操作演示
 

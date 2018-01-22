@@ -3,11 +3,9 @@ free connect your private network from anywhere
 
 # 1. fcn是什么
 
-fcn[`free connect`]是一款傻瓜式的一键接入私有网络的工具, 由客户服务端和客户端组成
+fcn[`free connect`]是一款傻瓜式的一键接入私有网络的工具, fcn利用公共服务器以及数据加密技术，将用户客户端透明接入服务端所在局域网
 
-fcn使用fcn公网数据服务器以及数据加密技术，将用户客户端虚拟接入客户服务端私有网络
-
-fcn = `fcn_server` + `fcn_client`
+fcn = `用户服务端` <--- `FCN公共服务器` --- > `用户客户端` 
 
 **注: FCNV3.0以前版本切换服务端存在BUG, FCN近期切换服务器IP, 可能导致无法连接服务端, 请重开服务端或更新服务端版本**
 
